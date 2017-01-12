@@ -1,6 +1,8 @@
 # add_active_link
 
-## Javascript snippet for Rails projects that parses the url for the current page, and adds an 'active' class decoration to links that match the current page.
+## jQuery snippet for Rails projects that parses the url for the current page, and adds an 'active' class decoration to links that match the current page.
+
+### add_active_link has jquery as a dependency.
 
 ## Default configuration
 
